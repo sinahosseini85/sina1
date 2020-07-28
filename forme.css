@@ -1,0 +1,55 @@
+body{
+  margin: 0px;
+}
+#conteiner{
+  width: 1200px;
+  margin: 0 auto 0;
+}
+#heder{
+  width: 100%;
+  height: 90px;
+  background-color: #b3d4fc;
+}
+#slider{
+  width: 100%;
+  height: 400px;
+  background-color: darkred;
+  float: bottom;
+}
+#category
+{
+  width: 33.3333333%;
+  height: 250px;
+  background-color: burlywood;
+  border: 10px;
+  float: left;
+}
+#category1
+{
+  width: 33.3333333%;
+  height: 250px;
+  background-color: green;
+  border: 10px;
+  float: left;
+}
+#category2
+{
+  width: 33.3333333%;
+  height: 250px;
+  background-color: fuchsia;
+  border: 10px;
+  border-color: black;
+  float: left;
+}
+#topseller
+{
+  width: 100%;
+  height: 400px;
+  background-color: blue;
+}
+#foter
+{
+  width: 100%;
+  height: 300px;
+  background-color: #555555;
+}
